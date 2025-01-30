@@ -18,67 +18,53 @@ ORG_DESCRIPTION="trumpstellar FINANCE"
 email="trumpstellar@FINANCE"
 
 [[CURRENCIES]]
-code ="YXRP"
-name ="YRIPPL"
+code ="TRUMP"
+name ="TRUMP"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="Thes is make all type of payment trumpstellar ⛓️"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="KIND OF USES"
+image="https://trumpstellar.github.io/img/USD.png"
+conditions="KIND OF FUND RAISE USES"
 status="live"
 anchor_asset_type="FINANCIAL"
 fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="AXRP"
-name ="ARIPPL"
+code ="USD"
+name ="US DOLLAR"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="FAST TOKEN OF YXRP FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/USD.png"
 conditions="There will only ever be 1 billion  tokens in existence.then lock issuer"
 status="live"
 anchor_asset_type="CHAIN"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="BXRP"
-name ="BRIPPL"
+code ="SGB"
+name ="SGB"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
-desc="SECOND TOKEN OF YXRP FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+desc="SECOND TOKEN OF TRUMPSTELLAR FINANCE"
+image="https://trumpstellar.github.io/img/SGB.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="CXRP"
-name ="CRIPPL"
+code ="BTC"
+name ="BITCOIN"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
-desc="SECOND TOKEN OF YXRP FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-[[CURRENCIES]]
-code ="DXRP"
-name ="DRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF YXRP FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+desc="SECOND TOKEN OF TRUMPSTELLAR FINANCE"
+image="https://trumpstellar.github.io/img/BTC.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -86,13 +72,27 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="EXRP"
-name ="ERIPPL"
+code ="MANK"
+name ="MANKI"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF TRUMPSTELLAR FINANCE"
+image="https://trumpstellar.github.io/img/Manki.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="BELL"
+name ="BELL"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Bell.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -100,44 +100,13 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="FXRP"
-name ="FRIPPL"
+code ="COIN"
+name ="STELLAT COIN"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-[[CURRENCIES]]
-code ="GXRP"
-name ="GRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-[[CURRENCIES]]
-code ="HXRP"
-name ="HRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/COIN.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -146,30 +115,13 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="IXRP"
-name ="IRIPPL"
+code ="OF"
+name ="OF"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-
-[[CURRENCIES]]
-code ="JXRP"
-name ="JRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Of.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -179,73 +131,13 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="KXRP"
-name ="KRIPPL"
+code ="PINE"
+name ="PINEPAL"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-[[CURRENCIES]]
-code ="LXRP"
-name ="LRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-[[CURRENCIES]]
-code ="MXRP"
-name ="MRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-[[CURRENCIES]]
-code ="NXRP"
-name ="NRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-[[CURRENCIES]]
-code ="OXRP"
-name ="ORIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Pinepal.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -254,45 +146,13 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="PXRP"
-name ="PRIPPL"
+code ="CUP"
+name ="CUP"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-[[CURRENCIES]]
-code ="QXRP"
-name ="QRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-
-
-
-[[CURRENCIES]]
-code ="RXRP"
-name ="RRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Cup.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -303,13 +163,45 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="SXRP"
-name ="SRIPPL"
+code ="RAUND"
+name ="RAUND"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Raund.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="FREE"
+name ="FREE"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/free.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="DRAGON"
+name ="DRAGON"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/Dregan.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -317,13 +209,29 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="TXRP"
-name ="TRIPPL"
+code ="FROG"
+name ="FROG"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/Frog.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="F"
+name ="F"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/F.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
@@ -331,79 +239,171 @@ fixed_number=1000000000
 
 
 [[CURRENCIES]]
-code ="UXRP"
-name ="URIPPL"
+code ="@"
+name ="@"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-[[CURRENCIES]]
-code ="VXRP"
-name ="VRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-[[CURRENCIES]]
-code ="WXRP"
-name ="WRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
-conditions="There will only ever be 1 billion  tokens in existence."
-status="live"
-anchor_asset_type="CURRENCY"
-fixed_number=1000000000
-
-[[CURRENCIES]]
-code ="XXRP"
-name ="XRIPPL"
-issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
-is_asset_anchored=false
-display_decimals = 7
-desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/@.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
 
+
 [[CURRENCIES]]
-code ="ZXRP"
-name ="ZRIPPL"
+code ="OK"
+name ="OK"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/19.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="FLEM"
+name ="FLEM"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/48.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+[[CURRENCIES]]
+code ="HART"
+name ="HART"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/Hart.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+
+
+
+[[CURRENCIES]]
+code ="PUZZLE"
+name ="PUZZLE"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/Puzal.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="STAR"
+name ="STAR"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/STAR.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="DUCK"
+name ="DUCK"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/3.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
 fixed_number=1000000000
 
 [[CURRENCIES]]
-code ="1XRP"
-name ="1RIPPL"
+code ="REAR"
+name ="REAR"
 issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
 is_asset_anchored=false
 display_decimals = 7
 desc="SECOND TOKEN OF trumpstellar FINANCE"
-image="https://trumpstellar.github.io/img/YXRP.png"
+image="https://trumpstellar.github.io/img/18.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="TURTLE"
+name ="TURTLE"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/T.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="WATCH"
+name ="WATCH"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/Watch.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+
+[[CURRENCIES]]
+code ="DIMONF"
+name ="DIMONF"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/21.png"
+conditions="There will only ever be 1 billion  tokens in existence."
+status="live"
+anchor_asset_type="CURRENCY"
+fixed_number=1000000000
+
+[[CURRENCIES]]
+code ="100"
+name ="100"
+issuer = "GCBAYTUVFQQK7UJICZR3ETZ4JJHDBVME37OH6FQIFHX7FTODGSMCEGVU"
+is_asset_anchored=false
+display_decimals = 7
+desc="SECOND TOKEN OF trumpstellar FINANCE"
+image="https://trumpstellar.github.io/img/100.png"
 conditions="There will only ever be 1 billion  tokens in existence."
 status="live"
 anchor_asset_type="CURRENCY"
